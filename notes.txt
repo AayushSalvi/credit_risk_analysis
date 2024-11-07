@@ -1,0 +1,41 @@
+With respect to banking:- 
+Asset = Loan Product (housing loan,personal loan,etc) 
+Liability = current acc,  saving loan  (CASA), 
+
+ NPA = NON PERFORMING ASSET (Loan that is defaulted) 
+
+1. Disbursed Amount = Loan amount given to a customer 
+
+2.OSP = Outstanding principle (loan - emi ) (balance) 
+Amortization 
+
+3. DPD = Days past due 
+
+3. PAR = Portfolio at risk 
+OSP when DPD is > 0 
+
+4. NPA 
+Loan Account when DPD > 90 days 
+NPA account 
+
+
+#Credit Risk Types in Banking 
+DPD (ZERO) = NDA (Non Deliquent Account) 
+DPD (0 t0 30) = SMA1(Standard Monitoring Account) 
+DPD (31 t0 60) = SMA2(Standard Monitoring Account) 
+DPD (61 t0 90) = SMA3(Standard Monitoring Account) 
+DPD (91 t0 180) = SMA3(Standard Monitoring Account) 
+DPD (>180) = Written Off (loan which is not present) 
+
+
+GNPA = Gross NPA (3-5 %) = OSP Default (the percent which bank could not recover)
+NNPA = Net NPA (0.01 to o.06%) = Provisioning Amount Subtracted 
+
+
+
+CIBIL Data set                    
+central authority of banks where banks give data to 
+
+
+
+1:04:49
